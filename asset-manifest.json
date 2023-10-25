@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Text-Task-Courses/static/css/main.6ed45ca2.chunk.css",
+    "main.js": "/Text-Task-Courses/static/js/main.a6bd32ae.chunk.js",
+    "main.js.map": "/Text-Task-Courses/static/js/main.a6bd32ae.chunk.js.map",
+    "runtime-main.js": "/Text-Task-Courses/static/js/runtime-main.e6e01c82.js",
+    "runtime-main.js.map": "/Text-Task-Courses/static/js/runtime-main.e6e01c82.js.map",
+    "static/js/2.0e185b16.chunk.js": "/Text-Task-Courses/static/js/2.0e185b16.chunk.js",
+    "static/js/2.0e185b16.chunk.js.map": "/Text-Task-Courses/static/js/2.0e185b16.chunk.js.map",
+    "index.html": "/Text-Task-Courses/index.html",
+    "static/css/main.6ed45ca2.chunk.css.map": "/Text-Task-Courses/static/css/main.6ed45ca2.chunk.css.map",
+    "static/js/2.0e185b16.chunk.js.LICENSE.txt": "/Text-Task-Courses/static/js/2.0e185b16.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6e01c82.js",
+    "static/js/2.0e185b16.chunk.js",
+    "static/css/main.6ed45ca2.chunk.css",
+    "static/js/main.a6bd32ae.chunk.js"
+  ]
+}
